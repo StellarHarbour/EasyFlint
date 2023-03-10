@@ -1,0 +1,4 @@
+name: EasyFlint
+version: '${project.version}'
+main: com.segoitch.easyflint.EasyFlint
+api-version: 1.19
